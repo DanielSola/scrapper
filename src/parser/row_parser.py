@@ -1,3 +1,4 @@
+#Class to parse a row from the results table
 class TableRowParser:
     def __init__(self, tr):
         self.tr = tr
